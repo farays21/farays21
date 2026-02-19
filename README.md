@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/farays21/farays21/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/alfanassyura14/alfanassyura14/output/pacman-contribution-graph.svg" />
 </div>
 
 
@@ -12,7 +12,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
